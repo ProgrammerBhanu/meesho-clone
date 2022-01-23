@@ -3,6 +3,10 @@
   
   margin-top: 0;
 } */
+
+.logo{
+  height:60px;
+}
 .main_container_signup {
   background: linear-gradient(
     rgb(253, 233, 242) 0%,
